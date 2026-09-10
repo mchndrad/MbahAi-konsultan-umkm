@@ -2,7 +2,7 @@
 
 Pernah bingung soal HPP, strategi branding, atau cara beda dari kompetitor, tapi tidak ada yang bisa ditanya? Mbah Wignyo siap membantu.
 
-**Mbah AI** adalah chatbot konsultan bisnis berbasis AI untuk pelaku UMKM Ekonomi Kreatif Indonesia. Dibangun dengan persona **Mbah Wignyo Hadi Sudarmo** — kakek Jawa bijak berusia 72 tahun, mantan perajin batik Solo & eksportir kerajinan yang menyampaikan saran bisnis grounded dari Knowledge Base 396 chunks mencakup 10 buku marketing kelas dunia, 32 case study UMKM Indonesia, dan 200+ peribahasa Nusantara.
+**Mbah AI** adalah chatbot konsultan bisnis berbasis AI untuk pelaku UMKM Ekonomi Kreatif Indonesia. Dibangun dengan persona **Mbah Wignyo Hadi Sudarmo** kakek Jawa bijak berusia 72 tahun, mantan perajin batik Solo & eksportir kerajinan yang menyampaikan saran bisnis grounded dari Knowledge Base 396 chunks mencakup 10 buku marketing kelas dunia, 32 case study UMKM Indonesia, dan 200+ peribahasa Nusantara.
 
 🔗 **Live Demo:** [mbah-ai.web.app](https://mbah-ai.web.app)
 
