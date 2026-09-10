@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    color: #3D2914;
+    background: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fraunces', serif;
+  }
+
+  ::selection {
+    background: #C1440E;
+    color: white;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-mbah-terracotta text-white px-6 py-3 rounded-lg font-medium;
+    transition: all 0.3s;
+  }
+  .btn-primary:hover {
+    @apply bg-mbah-terracotta-light shadow-lg;
+  }
+  .btn-primary:active {
+    transform: scale(0.97);
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 bg-white text-mbah-brown px-6 py-3 rounded-lg font-medium border border-gray-200;
+    transition: all 0.3s;
+  }
+  .btn-secondary:hover {
+    @apply bg-mbah-cream border-mbah-gold;
+  }
+  .btn-secondary:active {
+    transform: scale(0.97);
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl p-6 border border-gray-100;
+    transition: all 0.3s;
+  }
+  .card:hover {
+    box-shadow: 0 8px 20px rgba(61, 41, 20, 0.12);
+    border-color: rgba(212, 165, 116, 0.3);
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-sm bg-mbah-cream text-mbah-brown border border-gray-200 cursor-pointer;
+    transition: all 0.3s;
+  }
+  .chip:hover {
+    @apply bg-white border-mbah-gold shadow-sm;
+  }
+}
