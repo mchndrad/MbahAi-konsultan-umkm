@@ -12,11 +12,11 @@ Pernah bingung soal HPP, strategi branding, atau cara beda dari kompetitor, tapi
 
 ## Latar Belakang
 
-Indonesia punya 65 juta UMKM, tapi hanya 24.9% yang terhubung ke ekosistem digital. Kesulitan utama bukan karena malas — tapi karena tidak ada akses ke konsultan bisnis yang terjangkau.
+Indonesia punya 65 juta UMKM, tapi hanya 24.9% yang terhubung ke ekosistem digital. Kesulitan utama bukan karena malas tapi karena tidak ada akses ke konsultan bisnis yang terjangkau.
 
 Konsultan bisnis konvensional berharga Rp 5–50 juta per sesi. Buku marketing kelas dunia seperti _Positioning_ atau _Blue Ocean Strategy_ terlalu abstrak untuk owner warung kelontong. Komunitas online sering memberikan saran tidak terstruktur.
 
-**Insight kunci:** UMKM tidak butuh AI teknis. Mereka butuh teman ngobrol yang bijak, hangat, dan tahu banyak — yang bisa menerjemahkan framework marketing kelas dunia ke bahasa mereka.
+**Insight kunci:** UMKM tidak butuh AI teknis. Mereka butuh teman ngobrol yang bijak, hangat, dan tahu banyak yang bisa menerjemahkan framework marketing kelas dunia ke bahasa mereka.
 
 Mbah AI menjawab gap ini dengan pendekatan budaya: advice disampaikan lewat cerita pengalaman, peribahasa Jawa, dan analogi kehidupan sehari-hari yang familiar bagi mayoritas pelaku UMKM Indonesia.
 
